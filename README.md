@@ -1,4 +1,6 @@
-# PermutasyonKombinasyon
+![CoLab](https://colab.research.google.com/assets/colab-badge.svg) [Link](https://colab.research.google.com/drive/1PGqyzuPBcYfdRK9C8_aJgtg62Jg8Dtf5)
+
+# Permutasyon ve Kombinasyon
 Permütasyon ve Kombinasyon ile ilgili Soru ve Çözümü
 
 ## Soru 1: Permütasyon

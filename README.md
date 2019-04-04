@@ -5,7 +5,7 @@ Permütasyon ve Kombinasyon ile ilgili Soru ve Çözümü
 
 BERBERKERTENKELE kelimesindeki harfler yer değiştirilerek anlamlı veya anlamsız 16 harfden oluşan kelimeler oluşturulacaktır. Oluşturulacak olan bu kelimelerin E ile başlayıp R ile bitme olasılığı kaçtır?
 
-#### Çözüm:
+### Çözüm:
 
 İstenilen Durum: P(A)= 14! / (2!*5!*2!*2!)= 90810720
 
@@ -13,7 +13,7 @@ BERBERKERTENKELE kelimesindeki harfler yer değiştirilerek anlamlı veya anlams
 
 Olasılık Sonucu: P(A)/P(B)= 0.075
 
-#### Açıklama:
+### Açıklama:
 
 Tekrarlı Permütasyon = N! / n1!n2!n3!....nn!
 
@@ -23,7 +23,7 @@ Kelimelerin E harfi ile başlayıp R ile bitme durumu bu iki harfin çıkarılı
 
 5 mühendis 4 teknisyen arasından oluşturulacak 4 kişilik bir araştırma ekibinde tek sayıda teknisyen bulunması istenmektedir. Buna göre bu araştırma ekibi kaç farklı şekilde oluşturulabilir?
 
-#### Çözüm:
+### Çözüm:
 
 Durum 1:  Bir teknisyenin bulunması:
 
@@ -37,7 +37,7 @@ Tüm Sonuç:
 
   40+20= 60 farklı şekilde oluşturulabilir.
   
-#### Açıklama:
+### Açıklama:
 
 C(n,r)= n! / r! * (n-r)!
 

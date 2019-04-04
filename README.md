@@ -1,4 +1,5 @@
-![CoLab](https://colab.research.google.com/assets/colab-badge.svg) [Link](https://colab.research.google.com/drive/1PGqyzuPBcYfdRK9C8_aJgtg62Jg8Dtf5)
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PGqyzuPBcYfdRK9C8_aJgtg62Jg8Dtf5)
 
 # Permütasyon ve Kombinasyon
 Permütasyon ve Kombinasyon ile ilgili Soru ve Çözümü

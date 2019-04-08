@@ -10,11 +10,17 @@ BERBERKERTENKELE kelimesindeki harfler yer değiştirilerek anlamlı veya anlams
 
 ### Çözüm:
 
-İstenilen Durum: P(A)= 14! / (2!*5!*2!*2!)= 90810720
+İstenilen Durum: E ve R harflerinin çıkarılması 
 
-Örnek Uzay: P(B)= 16! / (2!*6!*3!*2!)= 1210809600
+P(A)= 14! / (2!*5!*2!*2!)= 90810720
 
-Olasılık Sonucu: P(A)/P(B)= 0.075
+Örnek Uzay: Tüm harflerin bulunması
+
+P(B)= 16! / (2!*6!*3!*2!)= 1210809600
+
+Olasılık Sonucu: 
+
+P(A)/P(B)= 0.075
 
 ### Açıklama:
 

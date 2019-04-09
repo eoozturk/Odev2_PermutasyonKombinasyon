@@ -30,7 +30,7 @@ Olasılık Sonucu:
 
 P(A)/P(B)= 0.075
 
-### Açıklama
+### Açıklama:
 
 Tekrarlı Permütasyon = N! / n1!n2!n3!....nn!
 

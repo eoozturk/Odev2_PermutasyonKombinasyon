@@ -1,5 +1,5 @@
 <p align="left">
-<a href="https://colab.research.google.com/drive/1PGqyzuPBcYfdRK9C8_aJgtg62Jg8Dtf5" target="_parent">
+<a href="https://colab.research.google.com/drive/1PGqyzuPBcYfdRK9C8_aJgtg62Jg8Dtf5" target="_blank">
  <img src="https://colab.research.google.com/assets/colab-badge.svg" width="110" height="50" border="10"  />
 </a>
  
